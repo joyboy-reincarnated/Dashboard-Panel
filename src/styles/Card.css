@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 280px;
+    height: 250px;
+    border-radius: 10px;
+    justify-content: flex-end;
+    padding: 20px;
+    background-image:linear-gradient( to right,skyblue,rgb(60, 60, 239)) ;
+}
